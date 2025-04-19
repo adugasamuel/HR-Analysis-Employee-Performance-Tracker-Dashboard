@@ -13,7 +13,7 @@ The dashboard integrates performance metrics, satisfaction scores, attrition ris
 ---
 
 ## ❗ Problem Statement
-Traditional HR data is often siloed, outdated, or lacking in actionable insights. Without integrated and dynamic analytics, it’s difficult for HR teams to identify early warning signs of attrition, dissatisfaction, or performance issues. This dashboard solves that by centralizing key metrics into one accessible platform, allowing both macro-level organizational reviews and micro-level individual assessments.
+Human Resources departments often struggle with fragmented, static, or outdated performance data. Without real-time, multi-year insights into employee satisfaction, manager evaluations, and key performance indicators (KPIs), it becomes difficult to detect early signs of attrition risk, disengagement, or productivity issues. This project solves that problem by delivering a centralized, interactive dashboard that enables performance tracking, satisfaction trend analysis, and timely decision-making.
 
 ---
 
