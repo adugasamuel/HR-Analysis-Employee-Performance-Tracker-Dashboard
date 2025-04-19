@@ -101,8 +101,10 @@ Human Resources departments often struggle with fragmented, static, or outdated 
  reduce avoidable turnover. By leveraging insights from key satisfaction and performance indicators, HR can proactively support 
    employees, improve retention strategies, and foster a more engaged, high-performing organizational culture
 ---
+
 ## 📌 Case Study Highlight
 **Ada Bynold's** 3-year performance and satisfaction journey is featured to demonstrate the dashboard’s depth. Ada showed declining satisfaction despite improved performance scores — a red flag that HR must act on. Other employees can be viewed similarly, making this a scalable solution across the workforce.
+
 ---
 ## 📬 Contact & Credits
 Built and designed by [Aduga Emmanuel]  
