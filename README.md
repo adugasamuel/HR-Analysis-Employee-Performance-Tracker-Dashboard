@@ -64,31 +64,31 @@ Human Resources departments often struggle with fragmented, static, or outdated 
 
 ## ✅ Recommendations
 
-1. **Proactive HR Interventions**  
+. **Proactive HR Interventions**  
    Flag employees who show declining satisfaction or low balance trends for 1-on-1 check-ins. Use data as an early warning system to prevent disengagement.
 
-2. **Enhance Work-Life Balance Programs**  
+. **Enhance Work-Life Balance Programs**  
    Reduce burnout risk by reviewing workloads, offering flexible schedules, and promoting wellness initiatives—especially for roles showing high attrition rates (e.g., Sales, Recruitment).
 
-3. **Strengthen Onboarding & Early Engagement**  
+. **Strengthen Onboarding & Early Engagement**  
    Most attrition occurs within the first year. Tailored onboarding, mentorship, and goal-setting programs can help retain new hires longer.
 
-4. **Enable Manager Calibration Training**  
+. **Enable Manager Calibration Training**  
    Regularly train managers on how to assess employee performance objectively and fairly, minimizing rating inconsistencies across departments.
 
-5. **Develop Personalized Career Pathways**  
+. **Develop Personalized Career Pathways**  
    Integrate development plans and role progression opportunities based on performance data. Employees like Ada Bynold, showing improved performance despite dissatisfaction, should be nurtured with new growth opportunities.
 
-6. **Build Feedback Loops with Monthly Surveys**  
+. **Build Feedback Loops with Monthly Surveys**  
    Implement short, anonymous monthly feedback surveys to capture real-time insights into employee sentiment, leading to quicker responses.
 
-7. **Predictive Attrition Modelling**  
+. **Predictive Attrition Modelling**  
    Use historical performance and satisfaction data to forecast attrition risks and take pre-emptive retention actions for vulnerable employees.
 
-8. **Cross-Employee Performance Benchmarking**  
+. **Cross-Employee Performance Benchmarking**  
    Add the ability to compare employee performance across similar job roles, identifying top performers and support needs for others.
 
-9. **Automated Alert System**  
+. **Automated Alert System**  
    Configure alerts for overdue reviews, low performance dips, or continuous dissatisfaction, enabling HR to act in real-time.
 
 ---
