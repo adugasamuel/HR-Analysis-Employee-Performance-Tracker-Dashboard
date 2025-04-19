@@ -104,14 +104,6 @@ Human Resources departments often struggle with fragmented, static, or outdated 
 
 ## 📌 Case Study Highlight
 **Ada Bynold's** 3-year performance and satisfaction journey is featured to demonstrate the dashboard’s depth. Ada showed declining satisfaction despite improved performance scores — a red flag that HR must act on. Other employees can be viewed similarly, making this a scalable solution across the workforce.
-
----
-
-## 📂 File Structure
-- `README.md` – Project overview and key documentation
-- `PowerBI_Link` – Embedded dashboard for real-time interaction
-- `Employee_Performance_Tracker_Report.docx` – Full analytical write-up and summary
-
 ---
 
 ## 📬 Contact & Credits
