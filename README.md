@@ -1,8 +1,8 @@
-# 📊 Employee Performance Tracker Dashboard – Power BI
+mo# 📊 Employee Performance Tracker Dashboard – Power BI
 
 ## 🌐 [🔗 View Project in Power BI](https://app.powerbi.com/view?r=eyJrIjoiM2RlNWQyMzktNTY1OC00ODEwLTgwM2EtYzc4ZjJkYTdmNzU5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
 ## Introduction
-This project involves the development of an interactive Employee Performance Tracker dashboard for a U.S.-based company. It is designed to assist HR managers in visualizing and monitoring the performance, satisfaction levels, and workplace engagement of individual employees over time. The goal is to transform traditionally static HR evaluations into dynamic, data-driven insights for improved talent management.
+This project involves the development of an interactive Employee Performance Tracker dashboard for a U.S.-based company. It is designed to assist HR managers in visualizing and monitoring the performance, satisfaction levels, attrition and workplace engagement of individual employees over time. The goal is to transform traditionally static HR evaluations into dynamic, data-driven insights for improved talent management.
 
 The third page of the dashboard specifically highlights Ada Bynold, serving as a case study to demonstrate how user-level insights are visualized. However, HR professionals can switch between different employees using the dropdown filter, ensuring flexibility and scalability.
 ## 🧾 Project Description
