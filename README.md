@@ -64,31 +64,38 @@ Human Resources departments often struggle with fragmented, static, or outdated 
 
 ## ✅ Recommendations
 
-. **Proactive HR Interventions**  
-   Flag employees who show declining satisfaction or low balance trends for 1-on-1 check-ins. Use data as an early warning system to prevent disengagement.
+- **Proactive HR Interventions**  
+   Flag employees who show declining satisfaction or low balance trends for 1-on-1 check-ins. Use data as an early warning system to 
+   prevent disengagement.
 
-. **Enhance Work-Life Balance Programs**  
-   Reduce burnout risk by reviewing workloads, offering flexible schedules, and promoting wellness initiatives—especially for roles showing high attrition rates (e.g., Sales, Recruitment).
+- **Enhance Work-Life Balance Programs**  
+   Reduce burnout risk by reviewing workloads, offering flexible schedules, and promoting wellness initiatives—especially for roles 
+   showing high attrition rates (e.g., Sales, Recruitment).
 
-. **Strengthen Onboarding & Early Engagement**  
-   Most attrition occurs within the first year. Tailored onboarding, mentorship, and goal-setting programs can help retain new hires longer.
+- **Strengthen Onboarding & Early Engagement**  
+   Most attrition occurs within the first year. Tailored onboarding, mentorship, and goal-setting programs can help retain new hires 
+   longer.
 
-. **Enable Manager Calibration Training**  
-   Regularly train managers on how to assess employee performance objectively and fairly, minimizing rating inconsistencies across departments.
+- **Enable Manager Calibration Training**  
+   Regularly train managers on how to assess employee performance objectively and fairly, minimizing rating inconsistencies across 
+   departments.
 
-. **Develop Personalized Career Pathways**  
-   Integrate development plans and role progression opportunities based on performance data. Employees like Ada Bynold, showing improved performance despite dissatisfaction, should be nurtured with new growth opportunities.
+- **Develop Personalized Career Pathways**  
+   Integrate development plans and role progression opportunities based on performance data. Employees like Ada Bynold, showing improved 
+   performance despite dissatisfaction, should be nurtured with new growth opportunities.
 
-. **Build Feedback Loops with Monthly Surveys**  
-   Implement short, anonymous monthly feedback surveys to capture real-time insights into employee sentiment, leading to quicker responses.
+- **Build Feedback Loops with Monthly Surveys**  
+   Implement short, anonymous monthly feedback surveys to capture real-time insights into employee sentiment, leading to quicker 
+   responses.
 
-. **Predictive Attrition Modelling**  
-   Use historical performance and satisfaction data to forecast attrition risks and take pre-emptive retention actions for vulnerable employees.
+- **Predictive Attrition Modelling**  
+   Use historical performance and satisfaction data to forecast attrition risks and take pre-emptive retention actions for vulnerable 
+   employees.
 
-. **Cross-Employee Performance Benchmarking**  
+- **Cross-Employee Performance Benchmarking**  
    Add the ability to compare employee performance across similar job roles, identifying top performers and support needs for others.
 
-. **Automated Alert System**  
+- **Automated Alert System**  
    Configure alerts for overdue reviews, low performance dips, or continuous dissatisfaction, enabling HR to act in real-time.
 
 ---
