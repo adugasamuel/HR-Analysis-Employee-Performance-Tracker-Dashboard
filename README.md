@@ -98,12 +98,9 @@ Human Resources departments often struggle with fragmented, static, or outdated 
 - **Automated Alert System**  
    Configure alerts for overdue reviews, low performance dips, or continuous dissatisfaction, enabling HR to act in real-time.
 
----
-
  These recommendations were made to help the HR team optimize employee performance management, enhance workforce satisfaction, and 
  reduce avoidable turnover. By leveraging insights from key satisfaction and performance indicators, HR can proactively support 
-   employees, improve retention strategies, and foster a more engaged, high-performing organizational culture
----
+ employees, improve retention strategies, and foster a more engaged, high-performing organizational culture
 
 ## 📌 Case Study Highlight
 **Ada Bynold's** 3-year performance and satisfaction journey is featured to demonstrate the dashboard’s depth. Ada showed declining satisfaction despite improved performance scores — a red flag that HR must act on. Other employees can be viewed similarly, making this a scalable solution across the workforce.
