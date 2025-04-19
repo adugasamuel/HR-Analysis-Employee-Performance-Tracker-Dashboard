@@ -45,7 +45,7 @@ Human Resources departments often struggle with fragmented, static, or outdated 
 ## 📊 KPIs Tracked
 - Total Employee
 - Active Employee
-- Non-active
+- Non-active Employee 
 - Attrition Rate
 - Job Satisfaction  
 - Relationship Satisfaction  
