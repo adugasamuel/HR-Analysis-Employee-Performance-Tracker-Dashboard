@@ -108,4 +108,4 @@ Human Resources departments often struggle with fragmented, static, or outdated 
 ## 📬 Contact & Credits
 Built and designed by [Aduga Emmanuel]  
 📫 Contact: [adugasamuel@gmail.com]  
-🔗 LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/aduga-emmanuel-170396132/)]  
+🔗 LinkedIn: [[Aduga](https://www.linkedin.com/in/aduga-emmanuel-170396132/)]  
