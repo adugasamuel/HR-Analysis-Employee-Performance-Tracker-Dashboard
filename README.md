@@ -1,4 +1,4 @@
-mo# 📊 Employee Performance Tracker Dashboard – Power BI
+# 📊 Employee Performance Tracker Dashboard – Power BI
 
 ## 🌐 [🔗 View Project in Power BI](https://app.powerbi.com/view?r=eyJrIjoiM2RlNWQyMzktNTY1OC00ODEwLTgwM2EtYzc4ZjJkYTdmNzU5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
 ## Introduction
