@@ -6,7 +6,7 @@ This project involves the development of an interactive Employee Performance Tra
 
 The third page of the dashboard specifically highlights Ada Bynold, serving as a case study to demonstrate how user-level insights are visualized. However, HR professionals can switch between different employees using the dropdown filter, ensuring flexibility and scalability.
 ## 🧾 Project Description
-This Power BI dashboard was developed for a U.S.-based company to analyze and optimize employee performance, satisfaction, and retention. It provides HR professionals and business leaders with actionable, data-driven insights through interactive and dynamic visualization tools.
+This Power BI dashboard was developed to analyze and optimize employee performance, satisfaction, and retention. It provides HR professionals and business leaders with actionable, data-driven insights through interactive and dynamic visualization tools.
 
 The dashboard integrates performance metrics, satisfaction scores, attrition risks, and review timelines across multiple years. It includes drill-down functionality to view individual employee performance trajectories. For example, **Ada Bynold** is presented as a case study, and other employees can be selected via a dropdown for individualized analysis.
 
